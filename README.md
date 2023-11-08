@@ -1,9 +1,15 @@
 ## This repository contains projects from school courses and my freetime.
 
 # Figma
+This folder contains PDF files of the Figma designs I've made. Below are some screenshots of the work I've done.
+
+![image](https://github.com/ronetsu/portfolio/assets/104922181/24beafb8-7f6f-49cd-9f4b-9863fb14513f)
+
+![image](https://github.com/ronetsu/portfolio/assets/104922181/64a0d399-a288-43ad-9cb0-c6cb676fd831)
+
+![image](https://github.com/ronetsu/portfolio/assets/104922181/dcf3be04-4530-4dd7-9dbd-6231a31bb0c8)
 
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/d1e39ec0-2da4-43b6-8de4-01168cfd1b7a)
-
 
 # Machine learning
 This folder contains two examples of a machine learning tool made with Python.
