@@ -9,6 +9,9 @@ The purpose of this project was to great a program that has a very big amount of
 
 The previous image is a screen capture of the program's weather site, which I designed. I didn't make the map but everything else is made by me.
 
+# Prog3
+This folder contains course work for programming 3. All files are coded with Java.
+
 # coding-monkeys
 The coding-monkeys folder contains the course project for programming 3 course. We worked as a group of three. I was responsible for the front-end. I coded the all the GUI and CSS files and worked on the data structures and - files with the group.
 
