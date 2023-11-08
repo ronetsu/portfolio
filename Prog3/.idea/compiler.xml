@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wordle" />
+        <module name="junitorder" />
+        <module name="sevenzipsearch" />
+        <module name="jsoncountries" />
+        <module name="javadocstandings" />
+        <module name="calc" />
+        <module name="junitattainment" />
+        <module name="xmlcountries" />
+        <module name="javadocjson" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calc" target="17" />
+      <module name="javadocjson" target="17" />
+      <module name="javadocstandings" target="17" />
+      <module name="jsoncountries" target="17" />
+      <module name="junitattainment" target="17" />
+      <module name="junitorder" target="17" />
+      <module name="sevenzipsearch" target="17" />
+      <module name="wordle" target="17" />
+      <module name="xmlcountries" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Round8/xmlcountries/pom.xml" />
+        <option value="$PROJECT_DIR$/Round8/jsoncountries/pom.xml" />
+        <option value="$PROJECT_DIR$/Round8/sevenzipsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/Round10/javadocjson/pom.xml" />
+        <option value="$PROJECT_DIR$/Round10/javadocstandings/pom.xml" />
+        <option value="$PROJECT_DIR$/Round11/junitorder/pom.xml" />
+        <option value="$PROJECT_DIR$/Round11/junitattainment/pom.xml" />
+        <option value="$PROJECT_DIR$/Round12/calc/pom.xml" />
+        <option value="$PROJECT_DIR$/Round12/wordle/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>
