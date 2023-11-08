@@ -1,4 +1,4 @@
-# Programmering 3 Sisu Project
+# Programming 3 - Sisu Project
 This program was completed with a group of 3: Ville Niemi, Ronja Lipsonen and Onni Merilä.
 The main functionality of this program is to function as a student register by fetching information from Sisu API and using that to develop a graphic user interface for the user to handle.  
 # Overall functionality
@@ -9,10 +9,14 @@ The main functionality of this program is to function as a student register by f
 - When closed, the program saves the current students ArrayList to a datafile which is read when launching the program
 # Quick look
 Main Window
-![](https://i.imgur.com/P77X5j1.mp4)
+
+https://github.com/ronetsu/portfolio/assets/104922181/805c2e91-f1d6-48f6-8a09-16b6c50a4da8
 
 Log in window
-![](https://i.imgur.com/xkKDCtH.mp4)
+
+https://github.com/ronetsu/portfolio/assets/104922181/79c4f0a9-c657-44e5-94be-bbd5fd220dc3
+
+
 
 
 
