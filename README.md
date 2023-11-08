@@ -1,14 +1,19 @@
 ## This repository contains projects from school courses and my freetime.
 
 # Figma
-This folder contains PDF files of the Figma designs I've made. Below are some screenshots of the work I've done.
+## This folder contains PDF files of the Figma designs I've made. Below are some screenshots of the work I've done.
 
+Wireframe for a course's themed website assignment.
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/24beafb8-7f6f-49cd-9f4b-9863fb14513f)
 
+UX design for a leftover food service.
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/64a0d399-a288-43ad-9cb0-c6cb676fd831)
+
+Festival pass for an octoberfest themed fake-festival.
 
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/dcf3be04-4530-4dd7-9dbd-6231a31bb0c8)
 
+Wireframe for a color palette creator-site.
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/d1e39ec0-2da4-43b6-8de4-01168cfd1b7a)
 
 # Machine learning
