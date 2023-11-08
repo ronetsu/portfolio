@@ -1,4 +1,6 @@
-# README
+# Figma folder contains
+
+# Leftover food application
 Below is a link to a prototype
 
 [Prototype](https://www.figma.com/file/1Ihg71ZyQulGtvg1BsGhby/Prototyyppi?type=design&node-id=0%3A1&mode=design&t=8CL1DKChg9c1xpJo-1)
