@@ -1,5 +1,10 @@
 ## This repository contains projects from school courses and my freetime.
 
+# Figma
+
+![image](https://github.com/ronetsu/portfolio/assets/104922181/d1e39ec0-2da4-43b6-8de4-01168cfd1b7a)
+
+
 # Machine learning
 This folder contains two examples of a machine learning tool made with Python.
 
