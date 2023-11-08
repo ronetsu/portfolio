@@ -1,4 +1,4 @@
-## This repository contains projects from school courses and my freetime.
+## Here is a quick review of all the folders.
 
 # Figma
 ## This folder contains PDF files of the Figma designs I've made. Below are some screenshots of the work I've done.
