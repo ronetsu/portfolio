@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Ville Niemi",
+    "studentNumber": "12312312",
+    "startingYear": 2020,
+    "expectedEndYear": 2023,
+    "degree": {
+      "groupId": "tut-dp-g-1163",
+      "name": "Arkkitehdin tutkinto-ohjelma",
+      "creditsMin": 120
+    },
+    "firstName": "Ville",
+    "lastName": "Niemi",
+    "sameNamed": 1,
+    "attainments": [
+      {
+        "course": {
+          "courseName": "Antennas I",
+          "courseCode": "COMM.RF.420",
+          "credits": 5
+        },
+        "grade": 2
+      },
+      {
+        "course": {
+          "courseName": "Aurinkosähkön perusteet",
+          "courseCode": "EE.REE.210",
+          "credits": 5
+        },
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "name": "Ronja Lipsonen",
+    "studentNumber": "50121133",
+    "startingYear": 2020,
+    "expectedEndYear": 2023,
+    "degree": {
+      "groupId": "tut-dp-g-1163",
+      "name": "Arkkitehdin tutkinto-ohjelma",
+      "creditsMin": 120
+    },
+    "firstName": "Ronja",
+    "lastName": "Lipsonen",
+    "sameNamed": 1,
+    "attainments": [
+      {
+        "course": {
+          "courseName": "EPA-arviointi, Anestesiologia ja tehohoito",
+          "courseCode": "MEDAANEEPA",
+          "credits": 0
+        },
+        "grade": 4
+      },
+      {
+        "course": {
+          "courseName": "Johtamisen vuorovaikutus ja organisaatioviestintä",
+          "courseCode": "MOJOPP3",
+          "credits": 2
+        },
+        "grade": 4
+      },
+      {
+        "course": {
+          "courseName": "Anestesiologian ja tehohoiton koulutkseen liittyvä tutkimustyö (6 kk)",
+          "courseCode": "MEDAANETUT",
+          "credits": 0
+        },
+        "grade": 3
+      },
+      {
+        "course": {
+          "courseName": "Henkilöstön voimavarojen johtaminen",
+          "courseCode": "MOJOPP2",
+          "credits": 2
+        },
+        "grade": 2
+      },
+      {
+        "course": {
+          "courseName": "Rinnakkaisuus",
+          "courseCode": "COMP.CS.310",
+          "credits": 5
+        },
+        "grade": 4
+      },
+      {
+        "course": {
+          "courseName": "Electric Power Quality",
+          "courseCode": "DEE-24026",
+          "credits": 5
+        },
+        "grade": 4
+      },
+      {
+        "course": {
+          "courseName": "Antennas I",
+          "courseCode": "COMM.RF.420",
+          "credits": 5
+        },
+        "grade": 3
+      },
+      {
+        "course": {
+          "courseName": "Aurinkosähkön perusteet",
+          "courseCode": "EE.REE.210",
+          "credits": 5
+        },
+        "grade": 4
+      }
+    ]
+  }
+]

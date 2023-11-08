@@ -1,0 +1,42 @@
+-------------------------------------------------------------------------------
+Test set: fi.tuni.prog3.sisuTest.SisuTestFxTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+fi.tuni.prog3.sisuTest.SisuTestFxTest.testLogOut()  Time elapsed: 0 sec  <<< FAILURE!
+org.testfx.api.FxRobotException: the query "#newStudentButton" returned no nodes.
+	at org.testfx.api.FxRobot.queryVisibleNode(FxRobot.java:949)
+	at org.testfx.api.FxRobot.pointOfVisibleNode(FxRobot.java:922)
+	at org.testfx.api.FxRobot.clickOn(FxRobot.java:630)
+	at org.testfx.api.FxRobot.clickOn(FxRobot.java:59)
+	at org.testfx.api.FxRobotInterface.clickOn(FxRobotInterface.java:639)
+	at fi.tuni.prog3.sisuTest.SisuTestFxTest.goToMainMenu(SisuTestFxTest.java:121)
+	at fi.tuni.prog3.sisuTest.SisuTestFxTest.testLogOut(SisuTestFxTest.java:143)
+
+fi.tuni.prog3.sisuTest.SisuTestFxTest.testNewStudentSceneElements()  Time elapsed: 0 sec  <<< FAILURE!
+org.testfx.api.FxRobotException: the query "#newStudentButton" returned no nodes.
+	at org.testfx.api.FxRobot.queryVisibleNode(FxRobot.java:949)
+	at org.testfx.api.FxRobot.pointOfVisibleNode(FxRobot.java:922)
+	at org.testfx.api.FxRobot.clickOn(FxRobot.java:630)
+	at org.testfx.api.FxRobot.clickOn(FxRobot.java:59)
+	at org.testfx.api.FxRobotInterface.clickOn(FxRobotInterface.java:639)
+	at fi.tuni.prog3.sisuTest.SisuTestFxTest.testNewStudentSceneElements(SisuTestFxTest.java:68)
+
+fi.tuni.prog3.sisuTest.SisuTestFxTest.testCourseTabElements()  Time elapsed: 0 sec  <<< FAILURE!
+org.testfx.api.FxRobotException: the query "#newStudentButton" returned no nodes.
+	at org.testfx.api.FxRobot.queryVisibleNode(FxRobot.java:949)
+	at org.testfx.api.FxRobot.pointOfVisibleNode(FxRobot.java:922)
+	at org.testfx.api.FxRobot.clickOn(FxRobot.java:630)
+	at org.testfx.api.FxRobot.clickOn(FxRobot.java:59)
+	at org.testfx.api.FxRobotInterface.clickOn(FxRobotInterface.java:639)
+	at fi.tuni.prog3.sisuTest.SisuTestFxTest.goToMainMenu(SisuTestFxTest.java:121)
+	at fi.tuni.prog3.sisuTest.SisuTestFxTest.testCourseTabElements(SisuTestFxTest.java:106)
+
+fi.tuni.prog3.sisuTest.SisuTestFxTest.testLogInStageElements()  Time elapsed: 0 sec  <<< FAILURE!
+org.testfx.service.query.EmptyNodeQueryException: there is no node in the scene-graph matching the query: NodeQuery: from nodes: [],
+lookup by function: "org.testfx.util.NodeQueryUtils$$Lambda$9/0x0000000800c35a80@cc285f4",
+lookup by selector: "#logInLabel"
+	at org.testfx.service.query.impl.NodeQueryImpl.query(NodeQueryImpl.java:132)
+	at org.testfx.api.FxAssert.toNode(FxAssert.java:168)
+	at org.testfx.api.FxAssert.verifyThat(FxAssert.java:71)
+	at fi.tuni.prog3.sisuTest.SisuTestFxTest.testLogInStageElements(SisuTestFxTest.java:58)
+
