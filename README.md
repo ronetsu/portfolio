@@ -1,7 +1,7 @@
 ## Here is a quick review of all the folders.
 
 # Figma
-## This folder contains PDF files of the Figma designs I've made. Below are some screenshots of the work I've done.
+## This folder contains files of the Figma designs I've made. Below are some screenshots of the work I've done.
 
 Wireframe for a course's themed website assignment.
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/24beafb8-7f6f-49cd-9f4b-9863fb14513f)
@@ -13,7 +13,7 @@ Festival pass for an octoberfest themed fake-festival.
 
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/dcf3be04-4530-4dd7-9dbd-6231a31bb0c8)
 
-Wireframe for a color palette creator-site.
+Wireframe for a color palette creator service. 
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/d1e39ec0-2da4-43b6-8de4-01168cfd1b7a)
 
 # Machine learning
@@ -34,9 +34,9 @@ Here is a preview of the log in window I coded.
 https://github.com/ronetsu/portfolio/assets/104922181/093c0014-4dd0-494b-93db-6f754d913074
 
 # Software design
-This folder contains the files for a group project course named Software Design. The project was made by me and three of my school friends. I was in charge of the UI. So the overall design and color scheme was designed by me. 
+This folder contains the files for a group project course named Software Design. The project was made by me and three of my school friends. I was in charge of the UX side. So the overall design and color scheme was designed by me. 
 
-The purpose of this project was to great a program that has a very big amount of data and the data is combined in many ways. 
+The purpose of this project was to create a data-heavy program and the data was meant to be combined in many ways. 
 
 ![image](https://github.com/ronetsu/portfolio/assets/104922181/027e9b15-2f60-49f5-a920-aac93e6fa920)
 
