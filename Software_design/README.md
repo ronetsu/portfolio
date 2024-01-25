@@ -1,3 +1,5 @@
+## This is a group project. This README file is from our submission. I was in charge of front-end.
+
 Figma link attached. The .fig project displays the current prototype idea for the application.
 
 Build instructions:
